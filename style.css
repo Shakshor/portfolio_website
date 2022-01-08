@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    font-weight: 1200;
+}
+h2{
+    font-size: 45px;
+}
+.orange-color{
+    color: orange;
+}
+.main-area{
+    display: flex;
+    margin-bottom: 50px;
+}
+.width-area{
+    width: 50%;
+    padding-left: 5%;
+}
+.width-area img{
+    width: 60%;
+}
+.connect-button{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(6, 99, 185, 0.938);
+    padding: 6px 20px;
+    border-radius: 5px;
+}
+.mission-area h2{
+    text-align: center;
+}
+#second-part{
+    display: flex;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 50px;
+}
+.mission-item{
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+    padding: 5px 15px;
+    text-align: justify;
+    border-radius: 15px;
+}
+.mission-item img{
+    width: 30%;
+}
+.item-1{
+    background-color: rgba(178, 243, 221, 0.932);
+}
+.item-2{
+    background-color: rgb(248, 218, 169);
+}
+.item-3{
+    background-color: rgb(250, 207, 115);
+}
+.develop-area{
+    display: flex;
+    justify-content: space-around;
+}
+#develop-item1{
+    padding-left: 5%;
+    width: 30%;
+}
+#develop-item1 img{
+    width: 80%;
+}
+#develop-item2{
+    width: 70%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}

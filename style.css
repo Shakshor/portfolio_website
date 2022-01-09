@@ -3,8 +3,13 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 60px;
-    font-weight: 1200;
+    font-size: 50px;
+    font-weight: 1600;
+}
+#verticle-line{
+    border-left: 3px solid orangered;
+    padding-left: 5px;
+    border-radius: 2px;
 }
 h2{
     font-size: 45px;
